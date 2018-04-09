@@ -100,7 +100,7 @@ body{
 	border: none;
 	outline: none;
 	background: none;
-	font-size: 1.5em;
+	font-size: 1em;
 	font-family: 'PressStart2P';
 	color:#FF7F50;
 	width:150px;
@@ -551,7 +551,7 @@ body{
 .grid p{
 	color:#FF7F50;
 	line-height: 1.6em;
-	font-size: 1.5em;
+	font-size: 1em;
 }
 .logo{
 	padding:4em 0 2em;
@@ -578,7 +578,7 @@ body{
 	width: 40%;
 }
 .flex-caption p {
-	font-size: 1.7em;
+	font-size: 1em;
 	line-height: 1.4em;
 	color: #FFF;
 	text-shadow: 0 1px rgba(0, 0, 0, 0.41);
@@ -612,20 +612,20 @@ body{
 	padding: 4% 0 10%;
 }
 .top-cont h2{
-	font-size: 1.7em;
+	font-size: 1em;
 	color: #FF7F50;
 	text-shadow: 0 1px rgba(0, 0, 0, 0.41);
 	text-align: left;
 }
 .top-cont p{
-	font-size: 0.8755em;
+	font-size: 1em;
 	color: #FF7F50;
 	text-align: left;
 	padding-top: 1em;
 	line-height: 1.9em;
 }
 .top-cont h6{
-	font-size: 1.5em;
+	font-size: 1em;
 	color: #FF7F50;
 	text-align: left;
 	padding-top: 3.4em;
@@ -652,7 +652,7 @@ body{
 	padding: 7% 0;
 }
 .middle-cont p{
-	font-size: 1.3em;
+	font-size: 1em;
 	color: #FF7F50;
 	text-align: left;
 	padding-top: 0.6em;
@@ -660,7 +660,7 @@ body{
 	font-style: regular;
 }
 .middle-cont h6{
-	font-size: 1.5em;
+	font-size: 1em;
 	color: #FF7F50;
 	text-align: left;
 	padding-top: 1.4em;
@@ -702,14 +702,14 @@ body{
 	padding: 3% 0 7%;
 }
 .footer-middle p{
-	font-size: 0.8755em;
+	font-size: 1em;
 	color: #fff;
 	text-align: left;
 	padding-top: 2em;
 	line-height: 1.9em;
 }
 .footer-middle h6{
-	font-size: 0.8755em;
+	font-size: 1em;
 	color: #fff;
 	text-align: left;
 	padding-top: 2.4em;
@@ -775,7 +775,7 @@ body{
 .copy-right p
 {
 	font-family: 'Open Sans', sans-serif;
-	font-size:0.92355em;
+	font-size:1em;
 	float:left;
 	padding-top:2.3%;
 	color:#585858;
@@ -859,24 +859,24 @@ body{
 	color: #E44A4A;
 }
 .contact_info h2 {
-	font-size: 2em;
+	font-size: 1em;
 	text-transform: capitalize;
 	color:#747474;
 }
 .content h2 {
-	font-size: 2em;
+	font-size: 1em;
 	text-transform: capitalize;
 	color:#747474;
 }
 .ask h2{
-	font-size: 1.3em;
+	font-size: 1em;
 	color: #747474;
 	text-shadow: 0 1px rgba(0, 0, 0, 0.41);
 	text-align: left;
 	padding-top: 1em;
 }
 .ask p{
-	font-size: 0.8755em;
+	font-size: 1em;
 	color: #747474;
 	text-align: left;
 	padding-top: 1em;
@@ -919,10 +919,10 @@ body{
 		padding: 2em 0 1em;
 	}
 	.grid p {
-		font-size: 1.2em;
+		font-size: 1em;
 	}
 	.top-cont h2 {
-		font-size: 1.3em;
+		font-size: 1em;
 	}
 	.top-cont h6 a {
 		padding: 10px 15px;
@@ -943,16 +943,16 @@ body{
 		width: 33%;
 	}
 	.contact_info h2 {
-		font-size: 1.3em;
+		font-size: 1em;
 	}
 	.content h2 {
-		font-size: 1.3em;
+		font-size: 1em;
 	}
 	.contact-form input[type="submit"] {
 		padding: 10px 18px;
 	}
 	.contact-form span label {
-		font-size: 0.9em;
+		font-size: 1em;
 	}
 	.camera_caption {
 		top: 33%;
@@ -974,7 +974,7 @@ body{
 		width:95%;
 	}
 	.nav ul li a {
-		font-size: 0.9em;
+		font-size: 1em;
 	}
 	.nav ul li {
 		padding: 43px 12px;
@@ -992,7 +992,7 @@ body{
 		margin-top: 3em;
 	}
 	.top-cont h2 {
-		font-size: 1.3em;
+		font-size: 3em;
 	}
 	.top-cont h6 a {
 		padding: 10px 15px;
@@ -1017,16 +1017,16 @@ body{
 		padding-top: 10px;
 	}
 	.contact_info h2 {
-		font-size: 1.3em;
+		font-size: 1em;
 	}
 	.content h2 {
-		font-size: 1.3em;
+		font-size: 1em;
 	}
 	.contact-form input[type="submit"] {
 		padding: 10px 18px;
 	}
 	.contact-form span label {
-		font-size: 0.9em;
+		font-size: 1em;
 	}
 	.camera_caption {
 		top: 33%;
@@ -1044,7 +1044,7 @@ body{
 		width:95%;
 	}
 	.nav ul li a {
-		font-size: 0.9em;
+		font-size: 1em;
 	}
 	.nav ul li {
 		padding: 43px 6px;
@@ -1056,7 +1056,7 @@ body{
 		padding: 0em 0 1em;
 	}
 	.grid p {
-		font-size: 0.8em;
+		font-size: 1em;
 	}
 	.slider {
 		margin-top: 3em;
@@ -1074,7 +1074,7 @@ body{
 		padding-top: 2.4em;
 	}
 	.middle-cont p {
-		font-size: 0.8em;
+		font-size: 1em;
 	}
 	iframe {
 		width: 431px;
@@ -1087,16 +1087,16 @@ body{
 		float: none;
 	}
 	.contact_info h2 {
-		font-size: 1.3em;
+		font-size: 1em;
 	}
 	.content h2 {
-		font-size: 1.3em;
+		font-size: 1em;
 	}
 	.contact-form input[type="submit"] {
 		padding: 10px 18px;
 	}
 	.contact-form span label {
-		font-size: 0.9em;
+		font-size: 1em;
 	}
 	.camera_caption {
 		top: 33%;
