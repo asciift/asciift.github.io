@@ -88,13 +88,13 @@ body{
 .search {
 	background: #000000;
 	border: 1px solid #FF7F50;
-	position: relative;
+	/* position: relative; */
 	float: right;
 	border-radius: 2px;
 	-webkit-border-radius: 2px;
 	-moz-border-radius: 2px;
 	-o-border-radius: 2px;
-	margin: 40px;
+	margin: 35px 25px 43px 0px;
 }
 .search input[type="text"] {
 	border: none;
@@ -616,6 +616,7 @@ body{
 	color: #FF7F50;
 	text-shadow: 0 1px rgba(0, 0, 0, 0.41);
 	text-align: left;
+    line-height: 1.5em;
 }
 .top-cont p{
 	font-size: 1em;
