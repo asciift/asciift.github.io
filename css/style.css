@@ -89,7 +89,8 @@ body{
 /*---end_nav---*/
 .search {
 	background: #000000;
-	border: 1px solid #FF7F50;
+	border: 2px #FF7F50;
+    border-style: dashed dotted dashed dotted;
 	/* position: relative; */
 	float: right;
 	border-radius: 2px;
@@ -818,15 +819,16 @@ body{
 	padding:5px 0;
 }
 .contact-form span label{
-	color: #747474;
+	color: #FF7F50;
 	display: block;
 	font-size: 1em;
 	padding-bottom: 5px;
 }
 .contact-form input[type="text"], .contact-form textarea {
 	font-family: 'Open Sans', sans-serif;
-	background: #FFFFFF;
-	border: 1px solid #E7E7E7;
+	background: #000000;
+	border: 2px #FF7F50;
+    border-style: dashed dotted dashed dotted;
 	color: rgba(85, 81, 81, 0.84);
 	padding: 8px;
 	display: block;
@@ -840,7 +842,7 @@ body{
 	height:120px;		
 }
 .contact-form input[type="submit"]{
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'PressStart2P', sans-serif;
 	cursor: pointer;
 	-webkit-appearance: none;
 	padding: 17px 36px;
@@ -864,12 +866,12 @@ body{
 .contact_info h2 {
 	font-size: 1em;
 	text-transform: capitalize;
-	color:#747474;
+	color:#FF7F50;
 }
 .content h2 {
 	font-size: 1em;
 	text-transform: capitalize;
-	color:#747474;
+	color:#FF7F50;
 }
 .ask h2{
 	font-size: 1em;
